@@ -1,6 +1,7 @@
 <div align="center">
-
+  
 # ⚡ Pedro Henrique de Souza Cruz
+![hippo](https://media.tenor.com/i9Jb7TEwVqkAAAAj/hunter-x-hunter-hxh.gif)
 
 ### `Engenheiro de dados` · `Nen Type: Especialista em Dados`
 
@@ -10,6 +11,7 @@
 [![Gmail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroo.henrique2276@gmail.com)
 
 </div>
+
 
 ---
 
