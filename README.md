@@ -4,7 +4,7 @@
 
 ### `Analista de Dados` · `Nen Type: Especialista em Dados`
 
-**Brasília — DF, Brasil** · Aberto a oportunidades (presencial no DF ou remoto)
+**Brasília — DF** · Aberto a oportunidades (presencial no DF ou remoto)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-de-souza-cruzzz/)
 [![Gmail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroo.henrique2276@gmail.com)
@@ -16,23 +16,19 @@
 ## 📜 Carteira de Hunter
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  HUNTER LICENSE — DATA DIVISION                              ║
-╠══════════════════════════════════════════════════════════════╣
-║  Nome        : Pedro Henrique de Souza Cruz                  ║
-║  Registro    : @PedroFreecss                                 ║
-║  Base        : Brasília — DF                                 ║
-║  Especialidade: Análise de Dados & Business Intelligence     ║
-║  Experiência : 2 anos — setor de energia (grande porte)      ║
-║  Formação    : Análise e Desenvolvimento de Sistemas (2026)  ║
-║  Idiomas     : Português (nativo) · Inglês (avançado)        ║
-╚══════════════════════════════════════════════════════════════╝
+HUNTER LICENSE - DATA DIVISION
+------------------------------------------------------------
+Nome          : Pedro Henrique de Souza Cruz
+Registro      : @PedroFreecss
+Base          : Brasilia - DF
+Especialidade : Analise de Dados & Business Intelligence
+Experiencia   : 2 anos - setor de energia (grande porte)
+Formacao      : Analise e Desenvolvimento de Sistemas (2026)
+Idiomas       : Portugues (nativo) / Ingles (avancado)
+------------------------------------------------------------
 ```
 
-Transformo dado disperso em indicador que a diretoria usa para decidir. Na **Norte Energia**,
-construí e mantive **6 dashboards em Power BI** consumidos por **mais de 100 pessoas** de uma
-diretoria, e automatizei rotinas com Power Automate e LLM que devolveram **mais de 20 horas por
-mês** à equipe.
+Transformo dado disperso em indicador que a diretoria usa para decidir. Na **Norte Energia**, construí e mantive **6 dashboards em Power BI** consumidos por **mais de 100 pessoas** de uma diretoria, e automatizei rotinas com Power Automate e LLM que devolveram **mais de 20 horas por mês** à equipe.
 
 ---
 
@@ -47,7 +43,7 @@ mês** à equipe.
 | 🔵 **Emissão** — mandar longe | Cloud & Orquestração | `AWS S3` · `Data Lake` · `Databricks Workflows` |
 | 🟢 **Materialização** — criar do zero | Linguagens & Bancos | `Python` · `Pandas` · `NumPy` · `SQL` · `PostgreSQL` · `MySQL` · `SQLite` · `R` |
 | 🟣 **Manipulação** — automatizar | Automação de Processos | `Power Automate` · `Power Platform` · `APIs` |
-| ⚪ **Especialização** — o que quase ninguém tem | IA aplicada a dados | `Integração de LLMs (Gemini)` · `Engenharia de Prompts` · `Modelagem Preditiva` |
+| ⚪ **Especialização** — o que quase ninguém tem | IA aplicada a dados | `LLMs (Gemini)` · `Engenharia de Prompts` · `Modelagem Preditiva` |
 
 ---
 
@@ -57,7 +53,7 @@ mês** à equipe.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -76,5 +72,38 @@ mês** à equipe.
 
 | Projeto | O que é | Stack |
 |:--|:--|:--|
-| **[Dashboard de Analytics — CS2](https://github.com/PedroFreecss/PedroFreecss-CSGO_Dashboard_BI)** | ETL em Python de partidas profissionais, modelagem em SQLite e dashboard em Power BI com taxa de vitória por mapa e correlação ranking × resultado | `Python` `SQLite` `Power BI` `DAX` |
-| **[Agente de Arquitetura de Dados](https://github.com/PedroFreecss/NotebookLM)** | Base de conhe
+| **[Dashboard de Analytics — CS2](https://github.com/PedroFreecss/PedroFreecss-CSGO_Dashboard_BI)** | ETL em Python de partidas profissionais, modelagem em SQLite e dashboard em Power BI com taxa de vitória por mapa e correlação ranking x resultado | `Python` `SQLite` `Power BI` `DAX` |
+| **[Agente de Arquitetura de Dados](https://github.com/PedroFreecss/NotebookLM)** | Base de conhecimento consultável para decisões de arquitetura, com curadoria de fontes (DAMA-DMBOK, Databricks) | `NotebookLM` `Prompt Engineering` |
+| **[olist-etl-pipeline](https://github.com/PedroFreecss/olist-etl-pipeline)** 🚧 | Pipeline end-to-end em Arquitetura Medalhão sobre o dataset da Olist — *em construção, Fase 1 de 3* | `Databricks` `PySpark` `Delta Lake` `AWS S3` |
+
+---
+
+## 📈 Nen Output
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=PedroFreecss&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFreecss&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
+
+</div>
+
+---
+
+## 🎓 Formação e certificações
+
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — IESB (conclusão jun/2026)
+- Microsoft Power BI para Business Intelligence & Data Science — Data Science Academy
+- Bootcamp GenAI & Data (Bradesco) — DIO
+- Google Data Analytics Professional Certificate — *em andamento*
+- Google Cybersecurity Professional Certificate — *em andamento*
+
+---
+
+<div align="center">
+
+*"Você deve continuar treinando até que o Nen se torne parte de você."*
+
+**Aberto a vagas de Analista de Dados, Analista de BI e Engenharia de Dados Jr.**
+
+</div>
