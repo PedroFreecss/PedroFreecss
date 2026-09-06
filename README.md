@@ -106,6 +106,9 @@ Transformo dado disperso em indicador que a diretoria usa para decidir. Na **Nor
 
 <div align="center">
 
+![hippo](https://media1.tenor.com/m/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif)
+
+
 *"Você deve continuar treinando até que o Nen se torne parte de você."*
 
 **Aberto a vagas de Analista de Dados, Analista de BI e Engenharia de Dados Jr.**
