@@ -22,9 +22,9 @@ Nome          : Pedro Henrique de Souza Cruz
 Registro      : @PedroFreecss
 Base          : Brasilia - DF
 Especialidade : Analise de Dados & Business Intelligence
-Experiencia   : 2 anos - setor de energia (grande porte)
+Experiencia   : 2 anos - Jovem Aprendiz da área de Dados
 Formacao      : Analise e Desenvolvimento de Sistemas (2026)
-Idiomas       : Portugues (nativo) / Ingles (avancado)
+Idiomas       : Portugues (nativo) / Ingles (avançado)
 ------------------------------------------------------------
 ```
 
@@ -94,7 +94,7 @@ Transformo dado disperso em indicador que a diretoria usa para decidir. Na **Nor
 
 ## 🎓 Formação e certificações
 
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — IESB (conclusão jun/2026)
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — IESB (conclusão dez/2026)
 - Microsoft Power BI para Business Intelligence & Data Science — Data Science Academy
 - Bootcamp GenAI & Data (Bradesco) — DIO
 - Google Data Analytics Professional Certificate — *em andamento*
