@@ -78,17 +78,19 @@ Transformo dado disperso em indicador que a diretoria usa para decidir. Na **Nor
 
 ---
 
-## 📈 Nen Output
+## 📈 Nen Output — linguagens e ferramentas mais usadas
 
-<div align="center">
+| Ordem | Linguagem / ferramenta | Onde uso |
+|:--:|:--|:--|
+| 1 | **SQL** (PostgreSQL, MySQL, SQLite) | Extração e modelagem — o que mais escrevo no dia a dia |
+| 2 | **Python** (Pandas, NumPy, PySpark) | ETL, tratamento de dados e automação |
+| 3 | **Power BI + DAX + Power Query (M)** | Modelagem dimensional e dashboards executivos |
+| 4 | **Power Automate** | Automação de rotinas e integração com LLM |
+| 5 | **R** | Análise estatística pontual |
 
-![Stats](https://github-readme-stats.vercel.app/api?username=PedroFreecss&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFreecss&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)
-
-</div>
-
----
+> Os cards automáticos do GitHub contam apenas repositórios públicos com código versionado.
+> Como boa parte do meu trabalho de dados vive em Databricks e Power BI, a tabela acima reflete
+> melhor o uso real do que a contagem de linhas por linguagem.
 
 ## 🎓 Formação e certificações
 
