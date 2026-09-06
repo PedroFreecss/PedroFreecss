@@ -2,7 +2,7 @@
 
 # ⚡ Pedro Henrique de Souza Cruz
 
-### `Analista de Dados` · `Nen Type: Especialista em Dados`
+### `Engenheiro de dados` · `Nen Type: Especialista em Dados`
 
 **Brasília — DF** · Aberto a oportunidades (presencial no DF ou remoto)
 
