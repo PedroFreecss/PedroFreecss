@@ -1,55 +1,53 @@
 <div align="center">
-  
-# ⚡ Pedro Henrique de Souza Cruz
-![hippo](https://media.tenor.com/i9Jb7TEwVqkAAAAj/hunter-x-hunter-hxh.gif)
 
-### `Engenheiro de dados` · `Nen Type: Especialista em Dados`
+<img src="https://media.tenor.com/i9Jb7TEwVqkAAAAj/hunter-x-hunter-hxh.gif" width="120" alt="Hunter x Hunter" />
 
-**Brasília — DF** · Aberto a oportunidades (presencial no DF ou remoto)
+# Pedro Henrique de Souza Cruz
+
+### Analista de Dados & BI · Engenharia de Dados
+
+**Brasília, DF** · Disponível para vagas presenciais no DF ou remotas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-de-souza-cruzzz/)
 [![Gmail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroo.henrique2276@gmail.com)
 
 </div>
 
-
 ---
 
-## 📜 Carteira de Hunter
+## Sobre mim
 
+Trabalho na ponta que liga o dado bruto à decisão de negócio: extração, modelagem dimensional, pipelines de ETL e dashboards executivos. Na **Norte Energia**, construí e mantive **6 dashboards em Power BI** usados por **mais de 100 pessoas** de uma diretoria e automatizei rotinas com Power Automate integrado a LLM, o que liberou **mais de 20 horas por mês** da equipe.
+
+Hoje estou aprofundando a parte de engenharia (Databricks, PySpark, Delta Lake e Arquitetura Medalhão) para cobrir o fluxo completo, da ingestão ao indicador.
+
+```yaml
+nome:          Pedro Henrique de Souza Cruz
+base:          Brasília, DF
+foco:          Análise de Dados, Business Intelligence, Engenharia de Dados
+experiência:   2 anos (Jovem Aprendiz na área de Dados, Norte Energia)
+formação:      Tecnólogo em Análise e Desenvolvimento de Sistemas, IESB (dez/2026)
+idiomas:       Português (nativo), Inglês (avançado)
 ```
-HUNTER LICENSE - DATA DIVISION
-------------------------------------------------------------
-Nome          : Pedro Henrique de Souza Cruz
-Registro      : @PedroFreecss
-Base          : Brasilia - DF
-Especialidade : Analise de Dados & Business Intelligence
-Experiencia   : 2 anos - Jovem Aprendiz da área de Dados
-Formacao      : Analise e Desenvolvimento de Sistemas (2026)
-Idiomas       : Portugues (nativo) / Ingles (avançado)
-------------------------------------------------------------
-```
-
-Transformo dado disperso em indicador que a diretoria usa para decidir. Na **Norte Energia**, construí e mantive **6 dashboards em Power BI** consumidos por **mais de 100 pessoas** de uma diretoria, e automatizei rotinas com Power Automate e LLM que devolveram **mais de 20 horas por mês** à equipe.
 
 ---
 
-## 🌀 Os seis tipos de Nen
+## Competências técnicas
 
-> No Hunter x Hunter, o Nen de cada um se divide em categorias. O meu se divide assim:
+<img src="https://media.tenor.com/FyAnQRIEnvIAAAAM/bleach-ichigo.gif" align="right" width="200" alt="Bleach" />
 
-| Categoria | Domínio | Ferramentas |
-|:--|:--|:--|
-| 🔴 **Reforço** — o que faço melhor | Business Intelligence | `Power BI` · `DAX` · `Power Query (M)` · `Star Schema` · `Excel Avançado` |
-| 🟡 **Transformação** — mudar a forma do dado | ETL & Engenharia de Dados | `PySpark` · `Delta Lake` · `Databricks` · `Arquitetura Medalhão` · `Regex` |
-| 🔵 **Emissão** — mandar longe | Cloud & Orquestração | `AWS S3` · `Data Lake` · `Databricks Workflows` |
-| 🟢 **Materialização** — criar do zero | Linguagens & Bancos | `Python` · `Pandas` · `NumPy` · `SQL` · `PostgreSQL` · `MySQL` · `SQLite` · `R` |
-| 🟣 **Manipulação** — automatizar | Automação de Processos | `Power Automate` · `Power Platform` · `APIs` |
-| ⚪ **Especialização** — o que quase ninguém tem | IA aplicada a dados | `LLMs (Gemini)` · `Engenharia de Prompts` · `Modelagem Preditiva` |
+| Área | Ferramentas e conceitos |
+|:--|:--|
+| **Business Intelligence** | `Power BI` · `DAX` · `Power Query (M)` · `Star Schema` · `Excel Avançado` |
+| **ETL & Engenharia de Dados** | `PySpark` · `Delta Lake` · `Databricks` · `Arquitetura Medalhão` · `Regex` |
+| **Cloud & Orquestração** | `AWS S3` · `Data Lake` · `Databricks Workflows` |
+| **Linguagens & Bancos** | `Python` · `Pandas` · `NumPy` · `SQL` · `PostgreSQL` · `MySQL` · `SQLite` · `R` |
+| **Automação** | `Power Automate` · `Power Platform` · `APIs REST` |
+| **IA aplicada a dados** | `LLMs (Gemini)` · `Engenharia de Prompts` · `Modelagem Preditiva` |
 
----
+<br clear="right"/>
 
-## 🛠️ Stack
+### Stack
 
 <div align="center">
 
@@ -70,47 +68,67 @@ Transformo dado disperso em indicador que a diretoria usa para decidir. Na **Nor
 
 ---
 
-## ⚔️ Missões
+## Experiência
 
-| Projeto | O que é | Stack |
-|:--|:--|:--|
-| **[Dashboard de Analytics — CS2](https://github.com/PedroFreecss/PedroFreecss-CSGO_Dashboard_BI)** | ETL em Python de partidas profissionais, modelagem em SQLite e dashboard em Power BI com taxa de vitória por mapa e correlação ranking x resultado | `Python` `SQLite` `Power BI` `DAX` |
-| **[Agente de Arquitetura de Dados](https://github.com/PedroFreecss/NotebookLM)** | Base de conhecimento consultável para decisões de arquitetura, com curadoria de fontes (DAMA-DMBOK, Databricks) | `NotebookLM` `Prompt Engineering` |
-| **[olist-etl-pipeline](https://github.com/PedroFreecss/olist-etl-pipeline)** 🚧 | Pipeline end-to-end em Arquitetura Medalhão sobre o dataset da Olist — *em construção, Fase 1 de 3* | `Databricks` `PySpark` `Delta Lake` `AWS S3` |
+<img src="https://media.tenor.com/tBzuTbYcH4wAAAAM/gabimaru-gabimaru-the-hollow.gif" align="right" width="200" alt="Hell's Paradise" />
+
+**Jovem Aprendiz · Dados e BI** · Norte Energia
+
+- Desenvolvimento e sustentação de 6 dashboards em Power BI para uma diretoria com mais de 100 usuários
+- Modelagem dimensional (Star Schema), medidas em DAX e tratamento em Power Query (M)
+- Automação de rotinas operacionais com Power Automate e integração com LLM, economizando mais de 20 h/mês
+- Extração e preparação de dados em SQL e Python para relatórios recorrentes
+
+<br clear="right"/>
 
 ---
 
-## 📈 Nen Output — linguagens e ferramentas mais usadas
+## Projetos
 
-| Ordem | Linguagem / ferramenta | Onde uso |
+<img src="https://media.tenor.com/gvQDwbBKl-8AAAAM/luffy-gear-5.gif" align="right" width="200" alt="One Piece" />
+
+| Projeto | Descrição | Stack |
+|:--|:--|:--|
+| **[Dashboard de Analytics: CS2](https://github.com/PedroFreecss/PedroFreecss-CSGO_Dashboard_BI)** | ETL em Python de partidas profissionais, modelagem em SQLite e dashboard em Power BI com taxa de vitória por mapa e correlação entre ranking e resultado | `Python` `SQLite` `Power BI` `DAX` |
+| **[Agente de Arquitetura de Dados](https://github.com/PedroFreecss/NotebookLM)** | Base de conhecimento consultável para decisões de arquitetura, com curadoria de fontes (DAMA-DMBOK, documentação Databricks) | `NotebookLM` `Prompt Engineering` |
+| **[olist-etl-pipeline](https://github.com/PedroFreecss/olist-etl-pipeline)** 🚧 | Pipeline end-to-end em Arquitetura Medalhão (Bronze, Silver, Gold) sobre o dataset público da Olist. *Em construção, fase 1 de 3* | `Databricks` `PySpark` `Delta Lake` `AWS S3` |
+
+<br clear="right"/>
+
+### Uso real por ferramenta
+
+| # | Ferramenta | Aplicação |
 |:--:|:--|:--|
-| 1 | **SQL** (PostgreSQL, MySQL, SQLite) | Extração e modelagem — o que mais escrevo no dia a dia |
+| 1 | **SQL** (PostgreSQL, MySQL, SQLite) | Extração e modelagem, o que mais escrevo no dia a dia |
 | 2 | **Python** (Pandas, NumPy, PySpark) | ETL, tratamento de dados e automação |
 | 3 | **Power BI + DAX + Power Query (M)** | Modelagem dimensional e dashboards executivos |
 | 4 | **Power Automate** | Automação de rotinas e integração com LLM |
 | 5 | **R** | Análise estatística pontual |
 
-> Os cards automáticos do GitHub contam apenas repositórios públicos com código versionado.
-> Como boa parte do meu trabalho de dados vive em Databricks e Power BI, a tabela acima reflete
-> melhor o uso real do que a contagem de linhas por linguagem.
+> Os cards automáticos do GitHub contam só repositórios públicos com código versionado. Como boa parte do meu trabalho vive em Databricks e Power BI, esta tabela representa melhor o uso real do que a contagem de linhas por linguagem.
 
-## 🎓 Formação e certificações
+---
 
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — IESB (conclusão dez/2026)
-- Microsoft Power BI para Business Intelligence & Data Science — Data Science Academy
-- Bootcamp GenAI & Data (Bradesco) — DIO
-- Google Data Analytics Professional Certificate — *em andamento*
-- Google Cybersecurity Professional Certificate — *em andamento*
+## Formação e certificações
+
+<img src="https://media.tenor.com/QLJ_ELL7aoAAAAAM/black-clover-asta.gif" align="right" width="200" alt="Black Clover" />
+
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas**, IESB (conclusão em dez/2026)
+- Microsoft Power BI para Business Intelligence & Data Science, Data Science Academy
+- Bootcamp GenAI & Data (Bradesco), DIO
+- Google Data Analytics Professional Certificate *(em andamento)*
+- Google Cybersecurity Professional Certificate *(em andamento)*
+
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-![hippo](https://media1.tenor.com/m/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif)
-
+<img src="https://media1.tenor.com/m/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif" width="320" alt="Hunter x Hunter" />
 
 *"Você deve continuar treinando até que o Nen se torne parte de você."*
 
-**Aberto a vagas de Analista de Dados, Analista de BI e Engenharia de Dados Jr.**
+**Aberto a vagas de Analista de Dados, Analista de BI e Engenheiro de Dados Jr.**
 
 </div>
