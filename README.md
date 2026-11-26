@@ -14,8 +14,11 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## Sobre mim
+  
+</div>  
 
 Trabalho na ponta que liga o dado bruto à decisão de negócio: extração, modelagem dimensional, pipelines de ETL e dashboards executivos. Na **Norte Energia**, construí e mantive **6 dashboards em Power BI** usados por **mais de 100 pessoas** de uma diretoria e automatizei rotinas com Power Automate integrado a LLM, o que liberou **mais de 20 horas por mês** da equipe.
 
@@ -32,7 +35,11 @@ idiomas:       Português (nativo), Inglês (avançado)
 
 ---
 
+<div align="center">
+
 ## Competências técnicas
+
+</div> 
 
 | Área | Ferramentas e conceitos |
 |:--|:--|
@@ -46,8 +53,11 @@ idiomas:       Português (nativo), Inglês (avançado)
 <br clear="right"/>
 
 <div align="center">
-### Stack
-</div>  
+  
+## Stack
+
+</div> 
+
 
 <div align="center">
 
@@ -67,8 +77,11 @@ idiomas:       Português (nativo), Inglês (avançado)
 </div>
 
 ---
-
+<div align="center">
+  
 ## Experiência
+
+</div>
 
 **Jovem Aprendiz · Dados e BI** · Norte Energia
 
@@ -80,8 +93,11 @@ idiomas:       Português (nativo), Inglês (avançado)
 <br clear="right"/>
 
 ---
-
+<div align="center">
+  
 ## Projetos
+
+</div>
 
 | Projeto | Descrição | Stack |
 |:--|:--|:--|
