@@ -4,7 +4,7 @@
 
 # Pedro Henrique de Souza Cruz
 
-### Analista de Dados & BI · Engenharia de Dados
+### Analista de Dados 
 
 **Brasília, DF** · Disponível para vagas presenciais no DF ou remotas
 
@@ -34,8 +34,6 @@ idiomas:       Português (nativo), Inglês (avançado)
 
 ## Competências técnicas
 
-<img src="https://media.tenor.com/FyAnQRIEnvIAAAAM/bleach-ichigo.gif" align="right" width="200" alt="Bleach" />
-
 | Área | Ferramentas e conceitos |
 |:--|:--|
 | **Business Intelligence** | `Power BI` · `DAX` · `Power Query (M)` · `Star Schema` · `Excel Avançado` |
@@ -47,7 +45,9 @@ idiomas:       Português (nativo), Inglês (avançado)
 
 <br clear="right"/>
 
+<div align="center">
 ### Stack
+</div>  
 
 <div align="center">
 
@@ -70,8 +70,6 @@ idiomas:       Português (nativo), Inglês (avançado)
 
 ## Experiência
 
-<img src="https://media.tenor.com/tBzuTbYcH4wAAAAM/gabimaru-gabimaru-the-hollow.gif" align="right" width="200" alt="Hell's Paradise" />
-
 **Jovem Aprendiz · Dados e BI** · Norte Energia
 
 - Desenvolvimento e sustentação de 6 dashboards em Power BI para uma diretoria com mais de 100 usuários
@@ -85,8 +83,6 @@ idiomas:       Português (nativo), Inglês (avançado)
 
 ## Projetos
 
-<img src="https://media.tenor.com/gvQDwbBKl-8AAAAM/luffy-gear-5.gif" align="right" width="200" alt="One Piece" />
-
 | Projeto | Descrição | Stack |
 |:--|:--|:--|
 | **[Dashboard de Analytics: CS2](https://github.com/PedroFreecss/PedroFreecss-CSGO_Dashboard_BI)** | ETL em Python de partidas profissionais, modelagem em SQLite e dashboard em Power BI com taxa de vitória por mapa e correlação entre ranking e resultado | `Python` `SQLite` `Power BI` `DAX` |
@@ -95,29 +91,7 @@ idiomas:       Português (nativo), Inglês (avançado)
 
 <br clear="right"/>
 
-### Uso real por ferramenta
 
-| # | Ferramenta | Aplicação |
-|:--:|:--|:--|
-| 1 | **SQL** (PostgreSQL, MySQL, SQLite) | Extração e modelagem, o que mais escrevo no dia a dia |
-| 2 | **Python** (Pandas, NumPy, PySpark) | ETL, tratamento de dados e automação |
-| 3 | **Power BI + DAX + Power Query (M)** | Modelagem dimensional e dashboards executivos |
-| 4 | **Power Automate** | Automação de rotinas e integração com LLM |
-| 5 | **R** | Análise estatística pontual |
-
-> Os cards automáticos do GitHub contam só repositórios públicos com código versionado. Como boa parte do meu trabalho vive em Databricks e Power BI, esta tabela representa melhor o uso real do que a contagem de linhas por linguagem.
-
----
-
-## Formação e certificações
-
-<img src="https://media.tenor.com/QLJ_ELL7aoAAAAAM/black-clover-asta.gif" align="right" width="200" alt="Black Clover" />
-
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas**, IESB (conclusão em dez/2026)
-- Microsoft Power BI para Business Intelligence & Data Science, Data Science Academy
-- Bootcamp GenAI & Data (Bradesco), DIO
-- Google Data Analytics Professional Certificate *(em andamento)*
-- Google Cybersecurity Professional Certificate *(em andamento)*
 
 <br clear="right"/>
 
