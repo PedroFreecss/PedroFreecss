@@ -101,13 +101,8 @@ idiomas:       Português (nativo), Inglês (avançado)
 
 | Projeto | Descrição | Stack |
 |:--|:--|:--|
-| **[Dashboard de Analytics: CS2](https://github.com/PedroFreecss/PedroFreecss-CSGO_Dashboard_BI)** | ETL em Python de partidas profissionais, modelagem em SQLite e dashboard em Power BI com taxa de vitória por mapa e correlação entre ranking e resultado | `Python` `SQLite` `Power BI` `DAX` |
-| **[Agente de Arquitetura de Dados](https://github.com/PedroFreecss/NotebookLM)** | Base de conhecimento consultável para decisões de arquitetura, com curadoria de fontes (DAMA-DMBOK, documentação Databricks) | `NotebookLM` `Prompt Engineering` |
-| **[olist-etl-pipeline](https://github.com/PedroFreecss/olist-etl-pipeline)** 🚧 | Pipeline end-to-end em Arquitetura Medalhão (Bronze, Silver, Gold) sobre o dataset público da Olist. *Em construção, fase 1 de 3* | `Databricks` `PySpark` `Delta Lake` `AWS S3` |
-
-<br clear="right"/>
-
-
+| **[B3 Quant Lab](https://github.com/PedroFreecss/B3Lab)** | Testa se estratégias de timing batem o buy-and-hold na B3 com validação walk-forward, custos de operação, IR mensal com compensação de prejuízo e caixa rendendo CDI. Usa 50 passeios aleatórios como grupo de controle para separar sinal de sorte e inclui modelos de ML com purga contra vazamento | `Python` `Pandas` `Machine Learning` `yfinance` `API do Banco Central` |
+| **[Market Maker Fear Gauge](https://github.com/PedroFreecss/mm-fear-gauge)** | Mede a aversão a risco (γ) de um market maker real com dados públicos da Hyperliquid, a partir do modelo de Avellaneda-Stoikov (GLFT), e testa onde o modelo deixa de explicar o comportamento observado: seleção adversa, tick mínimo e γ variando com a volatilidade | `Python` `SciPy` `statsmodels` `WebSocket` `Jupyter` |
 
 <br clear="right"/>
 
